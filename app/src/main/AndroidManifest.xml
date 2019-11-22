@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+
+<manifest
+
+    xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.dot7.firebase">
 
@@ -13,6 +16,9 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         tools:ignore="GoogleAppIndexingWarning">
+
+        <!---Esta es una prueba para github 222-->
+
         <activity android:name=".codelabs.activities.DataBaseActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
