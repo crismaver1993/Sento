@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defaultsMap>
+    <entry>
+        <key>
+            active
+        </key>
+        <value>
+            false
+        </value>
+    </entry>
+    <entry>
+        <key>age</key>
+        <value>
+            0
+        </value>
+    </entry>
+    <entry>
+        <key>message</key>
+        <value>
+            Valor local
+        </value>
+    </entry>
+</defaultsMap>
