@@ -9,5 +9,12 @@ class InfoActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_info)
+        getRas()
+        
+    }
+
+    fun getRas(){
+        Log.v("Raul Armas Santiago")
+
     }
 }
