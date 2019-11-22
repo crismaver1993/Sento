@@ -19,6 +19,7 @@ class MainActivity : AppCompatActivity() {
         setUpRemoteConfig()
     }
 
+    //prueba de comentarios en el mainActivity
     private fun setUpRemoteConfig() {
         //Inicialización del Remote Config
         val remoteConfig = FirebaseRemoteConfig.getInstance()
