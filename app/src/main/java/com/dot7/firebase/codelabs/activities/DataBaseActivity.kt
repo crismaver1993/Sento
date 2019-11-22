@@ -25,6 +25,8 @@ class DataBaseActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_data_base)
         initAll()
+        Log.v("xxx","-")
+
     }
 
     private fun initAll() {
