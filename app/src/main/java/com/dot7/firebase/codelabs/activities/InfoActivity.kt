@@ -10,7 +10,7 @@ class InfoActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_info)
         getRas()
-        
+
     }
 
     fun getRas(){
